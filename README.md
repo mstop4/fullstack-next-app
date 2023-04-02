@@ -1,4 +1,4 @@
-# Fullstack Authentication Example with Next.js and NextAuth.js
+# Fullstack Next.js Blog App
 
 Practice project based on this tutorial https://vercel.com/guides/nextjs-prisma-postgres to get acquainted with Next.js, Vercel deployment, and Github OAuth.
 
