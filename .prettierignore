@@ -1,0 +1,11 @@
+.next
+prisma
+.eslintrc
+.prettierrc.json
+next-env.d.ts
+package-lock.json
+package.json
+README.md
+tsconfig.json
+.husky
+.lintstagedrc.js

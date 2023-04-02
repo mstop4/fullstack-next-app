@@ -28,14 +28,14 @@ const Draft: React.FC = () => {
           <h1>New Draft</h1>
           <input
             autoFocus
-            onChange={(e) => setTitle(e.target.value)}
+            onChange={e => setTitle(e.target.value)}
             placeholder="Title"
             type="text"
             value={title}
           />
           <textarea
             cols={50}
-            onChange={(e) => setContent(e.target.value)}
+            onChange={e => setContent(e.target.value)}
             placeholder="Content"
             rows={8}
             value={content}
